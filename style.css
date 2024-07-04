@@ -60,7 +60,6 @@ body {
   filter: blur(15px);
   pointer-events: none;
 }
-
 .container {
   display: flex;
   height: 100vh;
