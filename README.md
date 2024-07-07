@@ -32,7 +32,7 @@ You can view the live version of the Quiz App [here](com)
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/quiz-app.git
+    git clone https://github.com/Shahzaib-D-Memon/quiz-app.git
     ```
 2. Navigate to the project directory:
     ```bash
