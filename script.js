@@ -78,7 +78,6 @@ nextBtn.onclick = () => {
 };
 
 const optionList = document.querySelector(".option-list");
-
 // getting questions and options from array
 // function showQuestions(index) {
 //   const questionText = document.querySelector(".question-text");
