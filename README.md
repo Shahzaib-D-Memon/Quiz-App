@@ -4,7 +4,7 @@ This repository contains the source code for a Quiz Application. The app allows 
 
 ## Live Demo
 
-You can view the live version of the Quiz App [here](com) 
+You can view the live version of the Quiz App [here](https://shahzaib-d-memon.github.io/Quiz-App/) 
 
 ## Features
 
