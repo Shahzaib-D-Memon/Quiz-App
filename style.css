@@ -52,7 +52,6 @@ body {
   pointer-events: auto;
   transition: 0.3s ease;
 }
-
 .main.active {
   filter: blur(15px);
   pointer-events: none;
