@@ -41,6 +41,7 @@ body {
   margin-left: 35px;
   transition: 0.3s;
 }
+
 .navbar a:hover,
 .navbar a.active {
   color: #48cae4;
