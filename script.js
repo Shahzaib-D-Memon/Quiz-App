@@ -134,7 +134,6 @@ function optionSelected(answer) {
       }
     }
   }
-
   // if user has selected, disable all options
   for (let i = 0; i < allOptions; i++) {
     optionList.children[i].classList.add("disabled");
