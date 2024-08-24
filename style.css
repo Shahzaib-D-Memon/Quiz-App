@@ -130,7 +130,6 @@ body {
   pointer-events: none;
   transition: 0.3s ease;
 }
-
 .popup-info.active {
   opacity: 1;
   pointer-events: auto;
